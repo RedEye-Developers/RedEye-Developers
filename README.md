@@ -31,6 +31,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RSReswin&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RSReswin&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+## 🛡️ GitHub Badges
+<img src="https://github.com/user-attachments/assets/26291518-8460-4422-b5d6-99c49eef7b5c" alt="Active Developer Badge" width="50" height="auto">
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=RSReswin&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
