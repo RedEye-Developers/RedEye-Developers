@@ -1,5 +1,6 @@
-# 💫 About Me:
-I'm CEO Of RedEye Developers
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+Name+Reswin!;+I'm+CEO+Of+RedEye+Developers!;&color=FF5733"/>
+</h1>
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/C6yGdAEWEa) 
