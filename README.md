@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+Name+Reswin!;+I'm+CEO+Of+RedEye+Developers!;&color=FF5733"/>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+My+Name+is+Reswin!;+I'm+CEO+Of+RedEye+Developers!;+R=Red!;+E=Eye!;+D=Developers!;RED=RedEye+Developers!;&color=FF5733"/>
 </h1>
 
 ## 🌐 Socials:
