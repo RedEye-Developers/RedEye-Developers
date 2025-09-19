@@ -29,7 +29,7 @@
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RedEye-Developers&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RedEye-Developers&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEye-Developers&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEye-Developers&layout=donut-vertical)](https://github.com/RedEye-Developers)
 
 ## 🛡️ GitHub Badges
 <img src="https://github.com/user-attachments/assets/26291518-8460-4422-b5d6-99c49eef7b5c" alt="Active Developer Badge" width="50" height="auto">
