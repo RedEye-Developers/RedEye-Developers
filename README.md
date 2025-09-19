@@ -27,7 +27,7 @@
 <a target="_blank" href="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" style="display: inline-block;"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="42" height="42" /></a></p>
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=RedEye-Developers&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![RedEye-Developers GitHub stats](https://github-readme-stats.vercel.app/api?username=RedEye-Developers&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&show_icons=true&theme=radical)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=RedEye-Developers&theme=dark&hide_border=false)<br/>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RedEye-Developers&theme=dark&layout=donut-vertical)](https://github.com/RedEye-Developers)
 
